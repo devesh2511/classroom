@@ -23,3 +23,4 @@ function createWindow() {
 }
 
 app.on('ready', createWindow);
+launch.json
